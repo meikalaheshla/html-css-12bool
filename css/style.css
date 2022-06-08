@@ -16,3 +16,15 @@
 
     /* column-gap: calc((100% / 12) / 10); */
 }
+
+.row>.nest {
+    padding: 20px 10px;
+    column-gap: 10px;
+
+}
+
+.row>.nested {
+    background-color: #00e165;
+    height: 60px;
+    border-color: #006cfa;
+}

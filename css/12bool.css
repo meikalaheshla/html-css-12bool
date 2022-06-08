@@ -74,14 +74,14 @@
 }
 
 .row>.col-7 {
-    flex-basis: calc((100% /12) 7);
-    max-width: calc((100% /12) 7);
+    flex-basis: calc((100% /12) * 7);
+    max-width: calc((100% /12) * 7);
 
 }
 
 .row>.col-6 {
-    flex-basis: calc((100% /12) *6);
-    max-width: calc((100% /12) *6);
+    flex-basis: calc((100% /12) * 6);
+    max-width: calc((100% /12) * 6);
 
 }
 
