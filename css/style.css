@@ -28,3 +28,7 @@
     height: 60px;
     border-color: #006cfa;
 }
+
+.row #aligned-column {
+    height: 50px;
+}
