@@ -1,0 +1,18 @@
+.container {
+    background-color: beige;
+    height: 1000px;
+}
+
+.row>[class^='col'] {
+    height: 100px;
+    background-color: #006cfa;
+    border: 1px solid white;
+    color: white;
+}
+
+.row {
+
+    /*HEI GUARDAMI */
+
+    /* column-gap: calc((100% / 12) / 10); */
+}
